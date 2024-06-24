@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="author_2" label="author 2" language="en" table="x_snc_good_read_0_book">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>author_2</element>
+            <help/>
+            <hint/>
+            <label>author 2</label>
+            <language>en</language>
+            <name>x_snc_good_read_0_book</name>
+            <plural>author 2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-20 12:18:18</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>author 2</sys_name>
+            <sys_package display_value="Good Read Pro" source="x_snc_good_read_0">9d224a9f3b7e0a90f953f61864e45a5c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_good_read_0_book_author_2_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-20 12:18:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

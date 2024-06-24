@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="766d26db3b7e4e90f953f61864e45a5b" label="book" max_length="40" name="x_snc_good_read_0_book" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="author 2" max_length="40" name="author_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" max_length="128" name="title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="number of rating" max_length="40" name="number_of_rating" type="integer"/>
+        <element label="number of edition" max_length="40" name="number_of_edition" type="integer"/>
+        <element label="Rating" max_length="15" name="rating" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Author" max_length="64" name="author" type="string"/>
+        <element label="Image Cover" max_length="40" name="image_cover" type="user_image"/>
+        <element label="publishing year" max_length="40" name="publishing_year" type="integer"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

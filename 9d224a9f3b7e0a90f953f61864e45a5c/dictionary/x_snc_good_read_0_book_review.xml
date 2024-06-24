@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e29bbe533b3ace90f953f61864e45a8e" extends="task" label="Book Review" max_length="40" name="x_snc_good_read_0_book_review" type="collection">
+        <element label="Book Author(s)" max_length="40" name="book_author" type="string"/>
+        <element label="First published year" max_length="40" name="first_published_year" type="string"/>
+        <element label="Review" mandatory="true" max_length="8000" name="review" type="html"/>
+        <element label="Edition" max_length="40" name="edition" type="string"/>
+        <element label="Book Title" mandatory="true" max_length="40" name="book_title" type="string"/>
+    </element>
+</database>

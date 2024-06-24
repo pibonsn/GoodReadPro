@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time/>
+        <max_drift/>
+        <name>92c8b87e3b72865cf953f61864e45a84</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek/>
+        <run_period/>
+        <run_start>2024-06-21 06:24:02</run_start>
+        <run_time/>
+        <run_type>once</run_type>
+        <script><![CDATA[//These skills are disabled by default, activate these skills so they don't have to be manually enabled.
+
+try {
+    var activateSkillsGR = new GlideRecord("sn_nowassist_skill_config");
+    activateSkillsGR.query();
+    while (activateSkillsGR.next()) {
+        activateSkillsGR.setValue("active", true);
+        activateSkillsGR.setValue("in_product_active", true);
+        activateSkillsGR.update();
+    }
+    var activateNPGR = new GlideRecord("sys_gen_ai_skill_applicability");
+    activateNPGR.query();
+    while (activateNPGR.next()) {
+        activateNPGR.setValue("active", true);
+        activateNPGR.update();
+    }
+} catch (error) {
+    gs.error("Gen AI Baseline for Creator - Failed while activating Now Assist Skills  - Error - " + error.message);
+}]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 06:24:02</sys_created_on>
+        <sys_id>27e522ef3b764e14f953f61864e45aed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>92c8b87e3b72865cf953f61864e45a84</sys_name>
+        <sys_package display_value="Good Read Pro" source="x_snc_good_read_0">9d224a9f3b7e0a90f953f61864e45a5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</sys_scope>
+        <sys_update_name>sysauto_script_27e522ef3b764e14f953f61864e45aed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 06:24:02</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>
