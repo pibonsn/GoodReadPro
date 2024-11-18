@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="DELETE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value/>
+        <default_value_override>false</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>short_description</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>x_snc_good_read_0_book_review</name>
+        <read_only>true</read_only>
+        <read_only_override>true</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-29 09:33:53</sys_created_on>
+        <sys_id>d517267dfb1096d0649df88b4eefdc25</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="Good Read Pro" source="x_snc_good_read_0">9d224a9f3b7e0a90f953f61864e45a5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</sys_scope>
+        <sys_update_name>sys_dictionary_override_d517267dfb1096d0649df88b4eefdc25</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-29 09:33:53</sys_updated_on>
+    </sys_dictionary_override>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</application>
+        <file_path/>
+        <instance_id>84940bbc1b26029c7d9d2f8dee4bcba5</instance_id>
+        <instance_name>democreatorwf74559</instance_name>
+        <name>sys_dictionary_override_d517267dfb1096d0649df88b4eefdc25</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override"><sys_dictionary_override action="INSERT_OR_UPDATE"><attributes/><attributes_override>false</attributes_override><base_table>task</base_table><calculation/><calculation_override>false</calculation_override><default_value/><default_value_override>false</default_value_override><dependent/><dependent_override>false</dependent_override><display_override>false</display_override><element>short_description</element><mandatory>false</mandatory><mandatory_override>false</mandatory_override><name>x_snc_good_read_0_book_review</name><read_only>true</read_only><read_only_override>true</read_only_override><reference_qual/><reference_qual_override>false</reference_qual_override><sys_class_name>sys_dictionary_override</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-29 09:33:53</sys_created_on><sys_id>d517267dfb1096d0649df88b4eefdc25</sys_id><sys_mod_count>1</sys_mod_count><sys_name>short_description</sys_name><sys_package display_value="Good Read Pro" source="x_snc_good_read_0">9d224a9f3b7e0a90f953f61864e45a5c</sys_package><sys_policy/><sys_scope display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</sys_scope><sys_update_name>sys_dictionary_override_d517267dfb1096d0649df88b4eefdc25</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-29 09:33:53</sys_updated_on></sys_dictionary_override></record_update>]]></payload>
+        <payload_hash>1298250372</payload_hash>
+        <record_name>short_description</record_name>
+        <reverted_from/>
+        <source>608bbcb83bcb869cf953f61864e45a33</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-29 09:33:53</sys_created_on>
+        <sys_id>9917267dfb1096d0649df88b4eefdc86</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1919d7bfbb70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-29 09:33:53</sys_updated_on>
+        <type>Dictionary Entry Override</type>
+        <update_guid>5d17267d111096d00e4e67bc170fe585</update_guid>
+        <update_guid_history>5d17267d111096d00e4e67bc170fe585:1298250372,1917267de21096d09791efe1c6003580:-1081437192</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 14:12:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary_override">sys_dictionary_override</sys_db_object>
+        <sys_id>218cf681e0b04bcb8a9aa0c4839d1e11</sys_id>
+        <sys_metadata>d517267dfb1096d0649df88b4eefdc25</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="Good Read Pro" source="x_snc_good_read_0">9d224a9f3b7e0a90f953f61864e45a5c</sys_package>
+        <sys_parent display_value="">105207df3bf202d0f953f61864e45a84</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</sys_scope>
+        <sys_scope_delete display_value="">0a0faea2cec5480ea5514f2ff6d31a99</sys_scope_delete>
+        <sys_update_name>sys_dictionary_override_d517267dfb1096d0649df88b4eefdc25</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_override_d517267dfb1096d0649df88b4eefdc25">9917267dfb1096d0649df88b4eefdc86</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 14:12:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

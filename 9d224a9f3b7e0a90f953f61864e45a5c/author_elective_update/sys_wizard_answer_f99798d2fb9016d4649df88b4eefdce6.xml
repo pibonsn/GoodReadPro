@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Book Review publishing request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Book Review publishing request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">ab994f38fb220210649df88b4eefdcb7</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-30 12:23:56</sys_created_on>
+        <sys_id>f99798d2fb9016d4649df88b4eefdce6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Book Review publishing request</sys_name>
+        <sys_package display_value="Good Read Pro" source="x_snc_good_read_0">9d224a9f3b7e0a90f953f61864e45a5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</sys_scope>
+        <sys_update_name>sys_wizard_answer_f99798d2fb9016d4649df88b4eefdce6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-30 12:23:56</sys_updated_on>
+        <table/>
+        <target_url>x_snc_good_read_0_book_review_publishing_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</application>
+        <file_path/>
+        <instance_id>84940bbc1b26029c7d9d2f8dee4bcba5</instance_id>
+        <instance_name>democreatorwf74559</instance_name>
+        <name>sys_wizard_answer_f99798d2fb9016d4649df88b4eefdce6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Book Review publishing request</answer><button_label/><dependent_value/><element/><name>Book Review publishing request</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">ab994f38fb220210649df88b4eefdcb7</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-30 12:23:56</sys_created_on><sys_id>f99798d2fb9016d4649df88b4eefdce6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Book Review publishing request</sys_name><sys_package display_value="Good Read Pro" source="x_snc_good_read_0">9d224a9f3b7e0a90f953f61864e45a5c</sys_package><sys_policy/><sys_scope display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</sys_scope><sys_update_name>sys_wizard_answer_f99798d2fb9016d4649df88b4eefdce6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-30 12:23:56</sys_updated_on><table/><target_url>x_snc_good_read_0_book_review_publishing_request.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-888554994</payload_hash>
+        <record_name>Book Review publishing request</record_name>
+        <reverted_from/>
+        <source>14025a03fb101210649df88b4eefdc21</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-09-02 05:14:12</sys_created_on>
+        <sys_id>919cc01bfb5c5650649df88b4eefdcd0</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>191b127a8a00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>519cc01b955c56507f9cf2fba219d3d0</update_guid>
+        <update_guid_history>519cc01b955c56507f9cf2fba219d3d0:-888554994</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 14:09:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>09f09ded6b514e228c9ff7fff6d0e104</sys_id>
+        <sys_metadata>f99798d2fb9016d4649df88b4eefdce6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Book Review publishing request</sys_name>
+        <sys_package display_value="Good Read Pro" source="x_snc_good_read_0">9d224a9f3b7e0a90f953f61864e45a5c</sys_package>
+        <sys_parent display_value="Task">ab994f38fb220210649df88b4eefdcb7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</sys_scope>
+        <sys_scope_delete display_value="">0a0faea2cec5480ea5514f2ff6d31a99</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_f99798d2fb9016d4649df88b4eefdce6</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_f99798d2fb9016d4649df88b4eefdce6">919cc01bfb5c5650649df88b4eefdcd0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 14:09:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

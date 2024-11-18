@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="0b9b32933b3ace90f953f61864e45a8d" sys_domain="global" table="x_snc_good_read_0_book_review" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-20 13:20:16</sys_created_on>
+            <sys_id>c79b32933b3ace90f953f61864e45a8f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-20 13:20:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-20 13:20:16</sys_created_on>
+            <sys_id>c39b32933b3ace90f953f61864e45a90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-20 13:20:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-20 13:20:16</sys_created_on>
+            <sys_id>4b9b32933b3ace90f953f61864e45a90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-20 13:20:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-20 13:20:17</sys_created_on>
+            <sys_id>479b32933b3ace90f953f61864e45a91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-20 13:20:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-20 13:20:17</sys_created_on>
+            <sys_id>cf9b32933b3ace90f953f61864e45a90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-20 13:20:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-20 13:20:17</sys_created_on>
+            <sys_id>cb9b32933b3ace90f953f61864e45a91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-20 13:20:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-20 13:20:17</sys_created_on>
+            <sys_id>439b32933b3ace90f953f61864e45a92</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-20 13:20:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-20 13:20:17</sys_created_on>
+            <sys_id>c79b32933b3ace90f953f61864e45a92</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-20 13:20:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-20 13:20:17</sys_created_on>
+            <sys_id>4f9b32933b3ace90f953f61864e45a92</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-20 13:20:17</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-20 13:20:17</sys_created_on>
+            <sys_id>c39b32933b3ace90f953f61864e45a93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-20 13:20:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-20 13:20:17</sys_created_on>
+            <sys_id>4b9b32933b3ace90f953f61864e45a93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-20 13:20:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-20 13:20:17</sys_created_on>
+            <sys_id>cf9b32933b3ace90f953f61864e45a93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-20 13:20:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>book_title</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-20 13:49:08</sys_created_on>
+            <sys_id>2132435b3b3602d0f953f61864e45afa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-20 13:49:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>book_author</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-20 13:49:35</sys_created_on>
+            <sys_id>9452471f3b3602d0f953f61864e45aa9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-20 13:49:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>review</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-20 13:50:13</sys_created_on>
+            <sys_id>e9728f133b7602d0f953f61864e45a53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-20 13:50:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>edition</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-20 13:52:07</sys_created_on>
+            <sys_id>21e28b9f3b7602d0f953f61864e45ab9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-20 13:52:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_published_year</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-20 13:53:15</sys_created_on>
+            <sys_id>c6234b973bb602d0f953f61864e45ac5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-20 13:53:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_good_read_0_book_review</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-20 13:20:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b9b32933b3ace90f953f61864e45a8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_good_read_0_book_review</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Good Read Pro" source="x_snc_good_read_0">9d224a9f3b7e0a90f953f61864e45a5c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</sys_scope>
+            <sys_update_name>sys_ui_section_0b9b32933b3ace90f953f61864e45a8d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-20 13:20:16</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</application>
+        <file_path/>
+        <instance_id>84940bbc1b26029c7d9d2f8dee4bcba5</instance_id>
+        <instance_name>democreatorwf74559</instance_name>
+        <name>sys_ui_section_0b9b32933b3ace90f953f61864e45a8d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="0b9b32933b3ace90f953f61864e45a8d" sys_domain="global" table="x_snc_good_read_0_book_review" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 13:20:16</sys_created_on><sys_id>c79b32933b3ace90f953f61864e45a8f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 13:20:16</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 13:20:16</sys_created_on><sys_id>c39b32933b3ace90f953f61864e45a90</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 13:20:16</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cmdb_ci</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 13:20:16</sys_created_on><sys_id>4b9b32933b3ace90f953f61864e45a90</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 13:20:16</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>active</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 13:20:17</sys_created_on><sys_id>479b32933b3ace90f953f61864e45a91</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 13:20:17</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 13:20:17</sys_created_on><sys_id>cf9b32933b3ace90f953f61864e45a90</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 13:20:17</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>priority</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 13:20:17</sys_created_on><sys_id>cb9b32933b3ace90f953f61864e45a91</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 13:20:17</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 13:20:17</sys_created_on><sys_id>439b32933b3ace90f953f61864e45a92</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 13:20:17</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>parent</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 13:20:17</sys_created_on><sys_id>c79b32933b3ace90f953f61864e45a92</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 13:20:17</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 13:20:17</sys_created_on><sys_id>4f9b32933b3ace90f953f61864e45a92</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 13:20:17</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 13:20:17</sys_created_on><sys_id>c39b32933b3ace90f953f61864e45a93</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 13:20:17</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 13:20:17</sys_created_on><sys_id>4b9b32933b3ace90f953f61864e45a93</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 13:20:17</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 13:20:17</sys_created_on><sys_id>cf9b32933b3ace90f953f61864e45a93</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 13:20:17</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>book_title</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 13:49:08</sys_created_on><sys_id>2132435b3b3602d0f953f61864e45afa</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 13:49:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>book_author</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 13:49:35</sys_created_on><sys_id>9452471f3b3602d0f953f61864e45aa9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 13:49:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>review</element><position>14</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 13:50:13</sys_created_on><sys_id>e9728f133b7602d0f953f61864e45a53</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 13:50:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>edition</element><position>15</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 13:52:07</sys_created_on><sys_id>21e28b9f3b7602d0f953f61864e45ab9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 13:52:07</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>first_published_year</element><position>16</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 13:53:15</sys_created_on><sys_id>c6234b973bb602d0f953f61864e45ac5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_good_read_0_book_review" sys_domain="global" view="Default view">0b9b32933b3ace90f953f61864e45a8d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 13:53:15</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_snc_good_read_0_book_review</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 13:20:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0b9b32933b3ace90f953f61864e45a8d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_good_read_0_book_review</sys_name><sys_overrides/><sys_package display_value="Good Read Pro" source="x_snc_good_read_0">9d224a9f3b7e0a90f953f61864e45a5c</sys_package><sys_policy/><sys_scope display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</sys_scope><sys_update_name>sys_ui_section_0b9b32933b3ace90f953f61864e45a8d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 13:20:16</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1361850408</payload_hash>
+        <record_name>Book Review</record_name>
+        <reverted_from/>
+        <source>59224a9f3b7e0a90f953f61864e45a60</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-20 13:53:15</sys_created_on>
+        <sys_id>86234b973bb602d0f953f61864e45ac9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19035ec47700000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-20 13:53:15</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>c6234b97ebb602d035779c50c4c0e8c8</update_guid>
+        <update_guid_history>c6234b97ebb602d035779c50c4c0e8c8:-1361850408,21e28b9f6c7602d01f6e17065a36f0bc:577927351,a1728f13d87602d006a698c48aece9a1:586739812,5852471fae3602d0c00da9d9130553ab:-2003835556,2132435b783602d0387f1570a56cfefd:2091830078</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 14:12:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1ba98d17c52f4ae18770d67bfab7dd51</sys_id>
+        <sys_metadata>0b9b32933b3ace90f953f61864e45a8d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_good_read_0_book_review</sys_name>
+        <sys_package display_value="Good Read Pro" source="x_snc_good_read_0">9d224a9f3b7e0a90f953f61864e45a5c</sys_package>
+        <sys_parent display_value="">e29bbe533b3ace90f953f61864e45a8e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</sys_scope>
+        <sys_scope_delete display_value="">0a0faea2cec5480ea5514f2ff6d31a99</sys_scope_delete>
+        <sys_update_name>sys_ui_section_0b9b32933b3ace90f953f61864e45a8d</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_0b9b32933b3ace90f953f61864e45a8d">86234b973bb602d0f953f61864e45ac9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 14:12:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

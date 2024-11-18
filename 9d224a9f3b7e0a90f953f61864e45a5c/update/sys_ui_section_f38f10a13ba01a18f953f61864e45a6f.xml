@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New section 1" section_id="f38f10a13ba01a18f953f61864e45a6f" sys_domain="global" table="x_snc_good_read_0_request_for_book_review_publishing" version="3" view="Request_for_book_review_light">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-09 15:19:00</sys_created_on>
+            <sys_id>338f10a13ba01a18f953f61864e45ac3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_snc_good_read_0_request_for_book_review_publishing" sys_domain="global" view="2a9ed4693becd618f953f61864e45afd">f38f10a13ba01a18f953f61864e45a6f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-09 15:19:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_snc_good_read_0_request_for_book_review_publishing</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-09 15:19:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f38f10a13ba01a18f953f61864e45a6f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_good_read_0_request_for_book_review_publishing</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Good Read Pro" source="x_snc_good_read_0">9d224a9f3b7e0a90f953f61864e45a5c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</sys_scope>
+            <sys_update_name>sys_ui_section_f38f10a13ba01a18f953f61864e45a6f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-09 15:19:00</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Request for book review light" name="Request_for_book_review_light">2a9ed4693becd618f953f61864e45afd</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

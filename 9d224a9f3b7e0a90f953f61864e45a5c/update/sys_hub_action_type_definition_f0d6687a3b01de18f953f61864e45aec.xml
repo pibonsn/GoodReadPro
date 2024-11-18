@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <action_status/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <attributes>{labelCacheCleanUpExecuted=true}</attributes>
+        <authored_on_release_version>25000</authored_on_release_version>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category display_value="">{}</category>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>update ignore HAM field whe a new asset is create for ci class virtual server</description>
+        <flow_priority/>
+        <ih_action>false</ih_action>
+        <internal_name>update_ignore_ham</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Update Ignore Ham</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 09:34:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f0d6687a3b01de18f953f61864e45aec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Ignore Ham</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Good Read Pro" source="x_snc_good_read_0">9d224a9f3b7e0a90f953f61864e45a5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_f0d6687a3b01de18f953f61864e45aec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 09:34:32</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=f0d6687a3b01de18f953f61864e45aec"/>
+    <sys_variable_value action="delete_multiple" query="document_key=f0d6687a3b01de18f953f61864e45aec"/>
+    <sys_hub_step_instance action="delete_multiple" query="action=f0d6687a3b01de18f953f61864e45aec"/>
+    <sys_hub_action_input action="delete_multiple" query="model=f0d6687a3b01de18f953f61864e45aec"/>
+    <sys_hub_action_output action="delete_multiple" query="model=f0d6687a3b01de18f953f61864e45aec"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=f0d6687a3b01de18f953f61864e45aec"/>
+    <sys_hub_action_status_metadata action="delete_multiple" query="action_type_id=f0d6687a3b01de18f953f61864e45aec"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_f0d6687a3b01de18f953f61864e45aec"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_input_f0d6687a3b01de18f953f61864e45aec"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_f0d6687a3b01de18f953f61864e45aec"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_output_f0d6687a3b01de18f953f61864e45aec"/>
+    <sys_hub_action_plan action="delete_multiple" query="action_id=f0d6687a3b01de18f953f61864e45aec"/>
+</record_update>

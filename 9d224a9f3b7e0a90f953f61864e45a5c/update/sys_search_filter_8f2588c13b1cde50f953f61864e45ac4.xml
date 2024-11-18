@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="book">cf2588c13b1cde50f953f61864e45a37</ais_search_source>
+        <label>book</label>
+        <name>book</name>
+        <order>100</order>
+        <search_context_config display_value="Good Read Pro AI Search Configuration">20258c41871cde505a7f8f21287d83cb</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-26 13:51:03</sys_created_on>
+        <sys_id>8f2588c13b1cde50f953f61864e45ac4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>book</sys_name>
+        <sys_package display_value="Good Read Pro" source="x_snc_good_read_0">9d224a9f3b7e0a90f953f61864e45a5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</sys_scope>
+        <sys_update_name>sys_search_filter_8f2588c13b1cde50f953f61864e45ac4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-26 13:51:03</sys_updated_on>
+    </sys_search_filter>
+</record_update>

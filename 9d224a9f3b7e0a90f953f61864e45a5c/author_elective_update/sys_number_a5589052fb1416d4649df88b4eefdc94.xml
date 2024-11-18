@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_snc_good_read_0_book_review">x_snc_good_read_0_book_review</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>BR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-30 12:28:38</sys_created_on>
+        <sys_id>a5589052fb1416d4649df88b4eefdc94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BR</sys_name>
+        <sys_package display_value="Good Read Pro" source="x_snc_good_read_0">9d224a9f3b7e0a90f953f61864e45a5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</sys_scope>
+        <sys_update_name>sys_number_a5589052fb1416d4649df88b4eefdc94</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-30 12:28:38</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</application>
+        <file_path/>
+        <instance_id>84940bbc1b26029c7d9d2f8dee4bcba5</instance_id>
+        <instance_name>democreatorwf74559</instance_name>
+        <name>sys_number_a5589052fb1416d4649df88b4eefdc94</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_snc_good_read_0_book_review">x_snc_good_read_0_book_review</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>BR</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-30 12:28:38</sys_created_on><sys_id>a5589052fb1416d4649df88b4eefdc94</sys_id><sys_mod_count>0</sys_mod_count><sys_name>BR</sys_name><sys_package display_value="Good Read Pro" source="x_snc_good_read_0">9d224a9f3b7e0a90f953f61864e45a5c</sys_package><sys_policy/><sys_scope display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</sys_scope><sys_update_name>sys_number_a5589052fb1416d4649df88b4eefdc94</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-30 12:28:38</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>-1747082507</payload_hash>
+        <record_name>BR</record_name>
+        <reverted_from/>
+        <source>608bbcb83bcb869cf953f61864e45a33</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-30 12:28:38</sys_created_on>
+        <sys_id>f6a85092fb5416d4649df88b4eefdc7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191a34252ce0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-30 12:28:38</sys_updated_on>
+        <type>Number</type>
+        <update_guid>baa85092e65416d47a65e55de250f17a</update_guid>
+        <update_guid_history>baa85092e65416d47a65e55de250f17a:-1747082507</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 14:12:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>53c58248ec9c41a8a82b83a885cc4e40</sys_id>
+        <sys_metadata>a5589052fb1416d4649df88b4eefdc94</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BR</sys_name>
+        <sys_package display_value="Good Read Pro" source="x_snc_good_read_0">9d224a9f3b7e0a90f953f61864e45a5c</sys_package>
+        <sys_parent display_value="">e29bbe533b3ace90f953f61864e45a8e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</sys_scope>
+        <sys_scope_delete display_value="">0a0faea2cec5480ea5514f2ff6d31a99</sys_scope_delete>
+        <sys_update_name>sys_number_a5589052fb1416d4649df88b4eefdc94</sys_update_name>
+        <sys_update_version display_value="sys_number_a5589052fb1416d4649df88b4eefdc94">f6a85092fb5416d4649df88b4eefdc7b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 14:12:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="e29bbe533b3ace90f953f61864e45a8e" extends="task" label="Book Review" max_length="40" name="x_snc_good_read_0_book_review" type="collection">
-        <element label="Book Author(s)" max_length="40" name="book_author" type="string"/>
-        <element label="First published year" max_length="40" name="first_published_year" type="string"/>
-        <element label="Review" mandatory="true" max_length="8000" name="review" type="html"/>
-        <element label="Edition" max_length="40" name="edition" type="string"/>
-        <element label="Book Title" mandatory="true" max_length="40" name="book_title" type="string"/>
+    <element db_object_id="29d31cd3fb90d650649df88b4eefdcec" label="Book Review" max_length="40" name="x_snc_good_read_0_book_review" type="collection">
+        <element label="Review title" mandatory="true" max_length="40" name="review_title" type="string"/>
+        <element label="book" max_length="32" name="book" reference="x_snc_good_read_0_book" type="reference"/>
+        <element label="review" mandatory="true" max_length="512" name="review" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="3" label="Rating" mandatory="true" max_length="15" name="rating" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1 star" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="5 stars" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="2 stars" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="3 stars" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="4 stars" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="book"/>
+        </index>
     </element>
 </database>

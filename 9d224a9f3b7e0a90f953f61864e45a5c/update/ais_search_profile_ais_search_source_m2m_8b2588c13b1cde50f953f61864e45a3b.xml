@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="good-read-pro Search Profile">a4258c413c1cde50f46dd7847e045eec</profile>
+        <search_source display_value="book">cf2588c13b1cde50f953f61864e45a37</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-26 13:51:03</sys_created_on>
+        <sys_id>8b2588c13b1cde50f953f61864e45a3b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>good-read-pro Search Profile.book</sys_name>
+        <sys_package display_value="Good Read Pro" source="x_snc_good_read_0">9d224a9f3b7e0a90f953f61864e45a5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Good Read Pro">9d224a9f3b7e0a90f953f61864e45a5c</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_8b2588c13b1cde50f953f61864e45a3b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-26 13:51:03</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="53b01c57fb589650649df88b4eefdcb7" extends="sc_request" label="Request for Book review publishing" max_length="40" name="x_snc_good_read_0_request_for_book_review_publishing" type="collection">
+        <element display="true" label="Book" max_length="32" name="book" reference="x_snc_good_read_0_book" type="reference"/>
+        <index name="index">
+            <element name="book"/>
+        </index>
+    </element>
+</database>
